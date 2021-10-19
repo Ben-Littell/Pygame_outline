@@ -14,7 +14,9 @@ COLORS = [RED, GREEN, BLUE, BLACK]
 PI = math.pi
 
 # Game Constants
-SIZE = (700, 500)
+WIDTH = 700
+HEGHT = 500
+SIZE = (WIDTH, HEIGHT)
 FPS = 60
 
 ##############################################################################

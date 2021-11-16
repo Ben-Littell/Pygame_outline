@@ -30,6 +30,9 @@ pygame.display.set_caption('Animation Intro')
 clock = pygame.time.Clock()
 
 running = True
+########################################################################################################################
+
+########################################################################################################################
 # game loop
 while running:
     # get all mouse, keyboard, controller events

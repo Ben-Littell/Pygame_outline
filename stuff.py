@@ -15,7 +15,7 @@ PI = math.pi
 
 # Game Constants
 WIDTH = 700
-HEGHT = 500
+HEIGHT = 500
 SIZE = (WIDTH, HEIGHT)
 FPS = 60
 
